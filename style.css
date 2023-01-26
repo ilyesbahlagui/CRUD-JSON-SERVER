@@ -1,0 +1,75 @@
+body {
+    background-image: url("images/cuisine.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: 100px;
+    margin-left: 100px;
+    color: white;
+}
+
+.hide {
+    display: none;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    color: red;
+}
+
+h2 {
+    color: azure;
+    font-size: 50px;
+}
+
+hr {
+    color: green;
+    opacity: 1;
+    border-radius: 10px;
+    border: 1px solid !important;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.form-label,
+p {
+    color: white !important;
+    font-weight: bold;
+}
+
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 300px;
+}
+
+tr>th {
+    background-color: lightgrey;
+    width: 150px;
+    color: black !important;
+    padding: 10px;
+}
+
+tr {
+    background-color: white;
+    color: black !important;
+
+}
+
+td {
+    padding: 5px;
+}
+
+td:not(:first-child) {
+    text-align: end;
+}
+.modal-body{
+    color: black!important;
+}

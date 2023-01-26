@@ -1,0 +1,52 @@
+{
+  "receipes": [
+    {
+      "id": 0,
+      "name": "Poulet coco",
+      "nb_part": "4",
+      "description": "Poulet au lait de Coco avec du riz et gambas.",
+      "link": "https://www.youtube.com",
+      "ingredients": [
+        {
+          "name": "Poulet",
+          "quantity": "2",
+          "unit": "kg"
+        },
+        {
+          "name": "Lait de coco",
+          "quantity": "250",
+          "unit": "ml"
+        },
+        {
+          "name": "Riz",
+          "quantity": "77777",
+          "unit": "kg"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Poulet coco",
+      "nb_part": "4",
+      "description": "Poulet au lait de Coco avec du riz et gambas.",
+      "link": "https://www.youtube.com",
+      "ingredients": [
+        {
+          "name": "Poulet",
+          "quantity": "1",
+          "unit": "kg"
+        },
+        {
+          "name": "Lait de coco",
+          "quantity": "250",
+          "unit": "ml"
+        },
+        {
+          "name": "Riz",
+          "quantity": "1",
+          "unit": "kg"
+        }
+      ]
+    }
+  ]
+}
